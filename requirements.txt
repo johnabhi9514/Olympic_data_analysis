@@ -28,9 +28,6 @@ fonttools==4.31.2
 gast==0.3.3
 gitdb==4.0.9
 GitPython==3.1.27
-google-auth==2.6.2
-google-auth-oauthlib==0.4.6
-google-pasta==0.2.0
 grpcio==1.32.0
 h5py==2.10.0
 idna==3.3
@@ -105,12 +102,6 @@ smmap==5.0.0
 soupsieve==2.3.1
 stack-data==0.2.0
 streamlit==1.7.0
-tensorboard==2.8.0
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
-tensorflow==2.8.0
-tensorflow-estimator==2.4.0
-tensorflow-io-gcs-filesystem==0.24.0
 termcolor==1.1.0
 terminado==0.13.3
 testpath==0.6.0
